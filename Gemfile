@@ -25,6 +25,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'carrierwave'
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 gem 'fog'
+gem 'mini_magick'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
