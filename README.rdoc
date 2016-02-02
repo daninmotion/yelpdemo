@@ -1,28 +1,18 @@
 == README
+Features I'm working on:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Search for specific restaurants. 
 
-Things you may want to cover:
+* See the average rating of the restaurant.
 
-* Ruby version
+* It's location in google maps.
 
-* System dependencies
+* Browse reviews that have been given.
 
-* Configuration
+* Allow Users to write a review.
 
-* Database creation
+* Sign in/Sign out
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Give some Users Admin privlages. Which would allow them to moderate and add additional restaurants. 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
