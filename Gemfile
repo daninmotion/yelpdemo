@@ -26,6 +26,7 @@ gem 'carrierwave'
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 gem 'fog'
 gem 'mini_magick'
+gem 'devise'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
