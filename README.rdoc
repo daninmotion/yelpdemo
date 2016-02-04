@@ -1,18 +1,20 @@
 == README
-Features I'm working on:
 
-* Search for specific restaurants. 
+* Search for through a listing of restaurants with the help of the searchkick gem. 
 
-* See the average rating of the restaurant.
+* Add a rating system and calculate the average rating of a restaurant with jQuery raty.
 
-* It's location in google maps.
-
-* Browse reviews that have been given.
+* Integration with Google Maps API to display Restaurant locations.
 
 * Allow Users to write a review.
 
-* Sign in/Sign out
+* Admin setting to add new restaurants. 
 
-* Give some Users Admin privlages. Which would allow them to moderate and add additional restaurants. 
+*Bootstrap for front-end design.
+
+*Image hosting with Amazon S3.
+
+*Deployment with Heorku
+
 
 
