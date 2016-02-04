@@ -8,9 +8,9 @@
 
 * Allow Users to write a review.
 
-* Admin setting to add new restaurants. 
-
 *Bootstrap for front-end design.
+
+* Admin setting to add new restaurants.
 
 *Image hosting with Amazon S3.
 
