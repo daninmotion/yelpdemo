@@ -8,13 +8,13 @@
 
 * Allow Users to write a review.
 
-*Bootstrap for front-end design.
+* Bootstrap for front-end design.
 
 * Admin setting to add new restaurants.
 
-*Image hosting with Amazon S3.
+* Image hosting with Amazon S3.
 
-*Deployment with Heorku
+* Deployment with Heorku
 
 
 
