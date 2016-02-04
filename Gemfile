@@ -27,6 +27,7 @@ gem 'figaro', '~> 1.1', '>= 1.1.1'
 gem 'fog'
 gem 'mini_magick'
 gem 'devise'
+gem 'searchkick'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
